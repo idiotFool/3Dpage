@@ -56,5 +56,14 @@ require(["../Cesium-1.57/Source/Cesium.js"], (Cesium) => {
         }
     })
 
+    const redBox = viewer.entities.add({
+        name: 'box',
+        position: Cesium.Cartesian3.fromDegrees(-100, 40, 500000),
+        box: {
+            dimensions: new Cesium.Cartesian3(400000.0, 400000.0, 300000.0),
+            material: Cesium.Color.RED
+        }
+    });
+
     viewer.zoomTo(dashLine);
 })
