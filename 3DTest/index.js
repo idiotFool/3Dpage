@@ -9,13 +9,13 @@ require(["../Cesium-1.57/Source/Cesium.js"], (Cesium) => {
                 -125, 45, 500000
             ]),
             width : 2,
-            material : new Cesium.PolylineDashMaterialProperty({
+            material: new Cesium.PolylineDashMaterialProperty({
                 color: Cesium.Color.CYAN,  // 青色; 蓝绿色
                 dashPattern: 43690.0,
                 dashLength: 50
             })
         }
-    })
+    });
 
     const solidLine = viewer.entities.add({
         name: 'solid line',
@@ -43,6 +43,18 @@ require(["../Cesium-1.57/Source/Cesium.js"], (Cesium) => {
             })
         }
     });
+
+    const arrowLine = viewer.entities.add({
+        name: 'arrow line',
+        polyline: {
+            positions: Cesium.Cartesian3.fromDegreesArrayHeights([
+                -75, 41, 500000,
+                -125, 41, 500000
+            ]),
+            width: 10,
+            material: new Cesium.PolylineArrowMaterialProperty(Cesium.Color.CYAN)
+        }
+    })
 
     viewer.zoomTo(dashLine);
 })
