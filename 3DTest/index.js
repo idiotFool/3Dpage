@@ -29,5 +29,20 @@ require(["../Cesium-1.57/Source/Cesium.js"], (Cesium) => {
         }
     });
 
+    const glowLine = viewer.entities.add({
+        name: 'glow line',
+        polyline: {
+            positions: Cesium.Cartesian3.fromDegreesArrayHeights([
+                -75, 39, 500000,
+                -125, 39, 500000
+            ]),
+            width: 10,
+            material: new Cesium.PolylineGlowMaterialProperty({
+                color: Cesium.Color.BEIGE,
+                outlineWidth: 5
+            })
+        }
+    });
+
     viewer.zoomTo(dashLine);
 })
