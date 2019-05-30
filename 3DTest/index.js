@@ -74,12 +74,11 @@ require(["../Cesium-1.57/Source/Cesium.js"], (Cesium) => {
             height: 200000.0,
             extrudedHeight: 300000,
             fill: true,
-            material: "./static/images/kobe.jpg", //Cesium.Color.RED.withAlpha(0.5)
+            material: "./static/images/kobe.jpg",
             outline: true, //必须设置height，否则ouline无法显示
             outlineColor: Cesium.Color.BLUE.withAlpha(0.5),
-            outlineWidth: 10.0//不能设置，固定为1
         }
     });
 
-    viewer.zoomTo(dashLine);
+    viewer.zoomTo(ellipse);
 })
