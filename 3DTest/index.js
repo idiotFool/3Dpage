@@ -1,4 +1,7 @@
-require(["../Cesium-1.57/Source/Cesium.js"], (Cesium) => {
+require([
+    "../Cesium-1.57/Source/Cesium.js",
+    "static/modules/measureAngle.js"
+    ], (Cesium, measureAngle) => {
     const viewer = new Cesium.Viewer("cesiumContainer");
 
     const dashLine = viewer.entities.add({
@@ -102,6 +105,10 @@ require(["../Cesium-1.57/Source/Cesium.js"], (Cesium) => {
             outlineColor: Cesium.Color.BLACK
         }
     })
+
+    const positions = [[0, 2, 0], [0, 0, 0], [2, 0, 0]];
+    console.log(measureAngle)
+    measureAngle(positions)
 
     viewer.zoomTo(rect);
 })
