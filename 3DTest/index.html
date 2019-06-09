@@ -4,10 +4,15 @@
     <meta charset="UTF-8">
     <title>Cesium</title>
     <link rel="stylesheet" href="../Cesium-1.57/Build/Cesium/Widgets/widgets.css">
-    <script src="../Cesium-1.57/ThirdParty/requirejs-2.1.20/require.min.js"></script>
+    <link rel="stylesheet" href="static/css/main.css">
 </head>
 <body>
-<div id="cesiumContainer"></div>
-<script src="index.js"></script>
+<div>
+    <ul class="menu">
+        <li><a ui-sref="view1">view1</a></li>
+        <li><a ui-sref="view2">view2</a></li>
+    </ul>
+</div>
+<script src="static/lib/require/require.min.js" data-main="require.config.js"></script>
 </body>
 </html>
