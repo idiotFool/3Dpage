@@ -7,12 +7,28 @@
     <link rel="stylesheet" href="static/css/main.css">
 </head>
 <body>
-<div>
-    <ul class="menu">
-        <li><a ui-sref="view1">view1</a></li>
-        <li><a ui-sref="view2">view2</a></li>
-    </ul>
+<div id="content">
+    <div class="nav" ng-controller="navController">
+        <!--<a ui-sref="view1"></a>-->
+        <div class="logo">
+            <img src="static/images/logo.jpg" alt="logo">
+        </div>
+        <ul class="nav-item-outer">
+            <li ng-repeat="item in navItems">
+                <a ng-click="slideLevel2($event)">{{item.title}}</a>
+                <ul class="nav-item-inner">
+                    <li ng-repeat="subItem in item.subtitle">
+                        <a href="">{{subItem}}</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div class="mainContent" ng-controller="mainController">
+        <!--<a ui-sref="view2"></a>-->
+        <div id="cesiumContainer"></div>
+    </div>
 </div>
-<script src="static/lib/require/require.min.js" data-main="require.config.js"></script>
+<script src="static/lib/require/require.min.js" data-main="static/js/require.config.js"></script>
 </body>
 </html>

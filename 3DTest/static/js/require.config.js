@@ -1,15 +1,15 @@
 require.config({
     paths : {
-        "angular": "static/lib/angular/angular",
-        "domReady": "static/lib/require/domReady",
-        "uiRouter": "static/lib/angular/angular-ui-router",
-        "cesium": "../Cesium/Cesium",
+        "angular": "../lib/angular/angular",
+        "domReady": "../lib/require/domReady",
+        "uiRouter": "../lib/angular/angular-ui-router",
+        "cesium": "../../../Cesium-1.57/Build/Cesium/Cesium",
         /* "domReady" : "static/lib/require/domReady",
        "controllerModel": "static/modules/controllers",
        "mainController": "static/modules/mainController",
        "navController": "static/modules/navController",
-       "cesiumController": "static/modules/entityController",
-       "jquery": "static/lib/jquery-2.1.1/jquery.min"*/
+       "cesiumController": "static/modules/entityController",*/
+       "jquery": "../lib/jquery-2.1.1/jquery.min"
     },
     shim : {
         "angular" : {
@@ -23,7 +23,7 @@ require.config({
         }
     },
     deps: [
-        './bootstrap.js'  //kick start application
+        'static/js/bootstrap.js'  //kick start application
     ]
 });
 

@@ -2,372 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9652b84f-7c1f-40e5-a5a4-ac0a154930f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/how2UseGit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/require.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/datas/blend.s3m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/lib/angular/angular-route.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/lib/angular/angular-ui-router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/lib/angular/angular.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/lib/angular/angular.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/lib/require/domReady.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/lib/require/require.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/modules/controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/modules/entityController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/modules/mainController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/modules/navController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/tpl/cesiumContainer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DTest/static/tpl/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_10.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_11.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_12.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_13.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_14.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_15.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_16.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_17.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_18.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_19.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_20.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_21.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_22.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_23.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_24.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_25.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_26.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_27.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/GlobalBkLayer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/0/0/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/0/1/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/1/0/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/1/0/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/1/1/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/1/1/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/1/2/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/1/2/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/1/3/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/1/3/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/0/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/0/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/0/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/0/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/1/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/1/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/1/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/1/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/2/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/2/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/2/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/2/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/3/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/3/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/3/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/3/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/4/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/4/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/4/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/4/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/5/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/5/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/5/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/5/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/6/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/6/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/6/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/6/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/7/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/7/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/7/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/2/7/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/NaturalEarthII/tilemapresource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/PBR_Material/metal_plate/metal_plate_diff_1k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/PBR_Material/metal_plate/metal_plate_disp_1k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/PBR_Material/metal_plate/metal_plate_rough_1k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/PBR_Material/titanium_scuffed/Titanium-Scuffed_basecolor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/PBR_Material/titanium_scuffed/Titanium-Scuffed_metallic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/PBR_Material/titanium_scuffed/Titanium-Scuffed_roughness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/SkyBox/tycho2t3_80_mx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/SkyBox/tycho2t3_80_my.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/SkyBox/tycho2t3_80_mz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/SkyBox/tycho2t3_80_px.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/SkyBox/tycho2t3_80_py.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/SkyBox/tycho2t3_80_pz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/excavationregion_side.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/excavationregion_top.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/airfield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/airport.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/alcohol-shop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/america-football.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/art-gallery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/bakery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/bank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/baseball.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/basketball.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/beer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/bicycle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/blu-diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/building.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/bus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/cafe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/campsite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/cemetery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/cesium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/chemist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/cinema.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/circle-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/city.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/clothing-store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/college.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/commercial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/cricket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/cross.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/dam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/danger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/disability.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/dog-park.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/embassy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/emergency-telephone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/entrance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/farm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/fast-food.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/ferry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/fire-station.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/fuel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/garden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/gift.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/golf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/grepin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/grocery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/hairdresser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/harbor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/heliport.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/hospital.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/ice-cream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/industrial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/land-use.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/laundry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/library.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/lighthouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/lodging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/logging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/london-underground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/marker-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/minefield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/mobilephone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/monument.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/museum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/oil-well.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/park.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/park2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/parking-garage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/parking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/pharmacy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/pitch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/place-of-worship.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/playground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/police.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/polling-place.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/post.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/prison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/rail-above.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/rail-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/rail-metro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/rail-underground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/rail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/religious-christian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/religious-jewish.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/religious-muslim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/restaurant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/roadblock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/rocket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/school.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/scooter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/shop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/skiing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/slaughterhouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/soccer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/square-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/star-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/suitcase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/swimming.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/telephone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/tennis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/theatre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/toilets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/town-hall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/town.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/triangle-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/triangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/village.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/warehouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/waste-basket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/water.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/wetland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/maki/zoo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/moonSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/noise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/pin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/waterNormals.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/Textures/waterNormalsSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Assets/approximateTerrainHeights.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Cesium.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Terrain/0/0/0.terrain" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Terrain/0/1/0.terrain" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Terrain_STK/0/0/0.terrain" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Terrain_STK/0/1/0.terrain" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/ThirdParty/Workers/PlotAlgo/PlotAlgoInclude.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/ThirdParty/Workers/PlotAlgo/PlotAlgoInclude_NoCommon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/ThirdParty/Workers/deflate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/ThirdParty/Workers/draco_decoder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/ThirdParty/Workers/draco_wasm_wrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/ThirdParty/Workers/inflate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/ThirdParty/draco_decoder.wasm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Animation/Animation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Animation/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/BaseLayerPicker/BaseLayerPicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/BaseLayerPicker/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Cesium3DTilesInspector/Cesium3DTilesInspector.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/CesiumInspector/CesiumInspector.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/CesiumWidget/CesiumWidget.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/CesiumWidget/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/FullscreenButton/FullscreenButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Geocoder/Geocoder.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Geocoder/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/bingAerial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/bingAerialLabels.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/bingRoads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/blackMarble.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/esriNationalGeographic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/esriWorldImagery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/esriWorldStreetMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/mapQuestOpenStreetMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/mapboxSatellite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/mapboxStreets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/mapboxTerrain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/naturalEarthII.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/openStreetMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/stamenToner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ImageryProviders/stamenWatercolor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/arrows_e_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/arrows_n_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/arrows_s_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/arrows_w_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/compass_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/ring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/ring_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/tilt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/tiltbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/zoom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/zoom_active_in.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/zoom_active_out.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/Navigation/zoombar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/NavigationHelp/Mouse.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/NavigationHelp/MouseLeft.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/NavigationHelp/MouseMiddle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/NavigationHelp/MouseRight.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/NavigationHelp/Touch.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/NavigationHelp/TouchDrag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/NavigationHelp/TouchRotate.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/NavigationHelp/TouchTilt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/NavigationHelp/TouchZoom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/PlotImages/pointRed_Go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/PlotImages/pointWhite_Go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/PlotImages/pointYellow_Go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/TerrainProviders/Ellipsoid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/TerrainProviders/STK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/TimelineIcons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/ZoomIndicator/zoom_Identifiers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/compass.s3m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/cur/Hold.cur" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/cur/Pan.cur" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Images/info-loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/InfoBox/InfoBox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/InfoBox/InfoBoxDescription.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Navigation/navigation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/NavigationHelpButton/NavigationHelpButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/NavigationHelpButton/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/PerformanceWatchdog/PerformanceWatchdog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/ProjectionPicker/ProjectionPicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/SceneModePicker/SceneModePicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/SelectionIndicator/SelectionIndicator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Timeline/Timeline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Timeline/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/VRButton/VRButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/Viewer/Viewer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/ZoomIndicator/ZoomIndicator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/lighterShared.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/shared.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Widgets/widgets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/S3MBTilesParser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/S3MTilesParser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/cesiumWorkerBootstrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/combineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createBoxGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createBoxOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createCircleGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createCircleOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createCorridorGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createCorridorOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createCylinderGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createCylinderOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createEllipseGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createEllipseOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createEllipsoidGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createEllipsoidOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createFrustumGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createFrustumOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createPolygonGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createPolygonOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createPolylineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createPolylineVolumeGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createPolylineVolumeOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createRectangleGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createRectangleOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createSimplePolylineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createSphereGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createSphereOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createVerticesFromHeightmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createVerticesFromQuantizedTerrainMesh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createWallGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/createWallOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/decodeDraco.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/decodeGoogleEarthEnterprisePacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/transcodeCRNToDXT.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/transferTypedArrayTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/upsampleQuantizedTerrainMesh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cesium/Workers/zlib.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3DTest/static/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3DTest/static/js/controllers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3DTest/static/js/controllers/modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3DTest/static/js/controllers/navController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/3DTest/static/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/3DTest/static/js/bootstrap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3DTest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3DTest/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/require.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/3DTest/static/js/require.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/3DTest/static/js/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/3DTest/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/static/js/modules/controllers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/static/js/modules/entityController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/static/js/modules/mainController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/static/js/modules/measureAngle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/static/js/modules/navController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3DTest/static/tpl/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/3DTest/static/tpl/nav.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -383,53 +35,76 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3DTest/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="127">
+              <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3DTest/require.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3DTest/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3DTest/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="88" column="59" lean-forward="true" selection-start-line="88" selection-start-column="59" selection-end-line="88" selection-end-column="59" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/3DTest/static/tpl/nav.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3DTest/bootstrap.js">
+        <entry file="file://$PROJECT_DIR$/3DTest/static/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="182">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3DTest/routes.js">
+        <entry file="file://$PROJECT_DIR$/3DTest/static/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="154">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3DTest/static/js/require.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3DTest/static/js/controllers/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3DTest/static/js/controllers/modules.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3DTest/static/js/controllers/navController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3DTest/static/js/controllers/mainController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -439,8 +114,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -460,10 +135,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3DTest/index.js" />
         <option value="$PROJECT_DIR$/3DTest/static/modules/measureAngle.js" />
         <option value="$PROJECT_DIR$/3DTest/static/css.css" />
-        <option value="$PROJECT_DIR$/3DTest/static/tpl/nav.html" />
         <option value="$PROJECT_DIR$/3DTest/static/tpl/cesiumContainer.html" />
         <option value="$PROJECT_DIR$/3DTest/static/modules/navController.js" />
         <option value="$PROJECT_DIR$/3DTest/static/modules/mainController.js" />
@@ -474,14 +147,27 @@
         <option value="$PROJECT_DIR$/3DTest/static/routes.js" />
         <option value="$PROJECT_DIR$/3DTest/app.js" />
         <option value="$PROJECT_DIR$/3DTest/routes.js" />
-        <option value="$PROJECT_DIR$/3DTest/index.html" />
         <option value="$PROJECT_DIR$/3DTest/bootstrap.js" />
+        <option value="$PROJECT_DIR$/3DTest/index.js" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/controllers/index.css" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/controllers/modules.js" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/controllers/cesiumContainer.js" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/controllers/mainContainer.js" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/app.js" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/controllers/index.js" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/routes.js" />
+        <option value="$PROJECT_DIR$/3DTest/static/tpl/nav.html" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/require.config.js" />
+        <option value="$PROJECT_DIR$/3DTest/index.html" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/controllers/navController.js" />
+        <option value="$PROJECT_DIR$/3DTest/static/js/controllers/mainController.js" />
+        <option value="$PROJECT_DIR$/3DTest/static/css/main.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
-    <option name="y" value="72" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="158" />
+    <option name="y" value="5" />
     <option name="width" value="1683" />
     <option name="height" value="1086" />
   </component>
@@ -513,7 +199,20 @@
               <item name="how2UseGit" type="462c0819:PsiDirectoryNode" />
               <item name="3DTest" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="tpl" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="how2UseGit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="how2UseGit" type="462c0819:PsiDirectoryNode" />
+              <item name="3DTest" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="how2UseGit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="how2UseGit" type="462c0819:PsiDirectoryNode" />
+              <item name="Cesium-1.57" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -527,7 +226,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3DTest/static/datas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3DTest/static/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -537,14 +236,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\Desktop\git学习之路\gitFlow工作流\how2UseGit\3DTest\static\js" />
       <recent name="C:\Users\123\Desktop\git学习之路\gitFlow工作流\how2UseGit\3DTest\static\css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\123\Desktop\git学习之路\gitFlow工作流\how2UseGit\3DTest\static\images" />
       <recent name="C:\Users\123\Desktop\git学习之路\gitFlow工作流\how2UseGit\3DTest\static\datas" />
       <recent name="C:\Users\123\Desktop\git学习之路\gitFlow工作流\how2UseGit" />
       <recent name="C:\Users\123\Desktop\git学习之路\gitFlow工作流\how2UseGit\3DTest" />
       <recent name="C:\Users\123\Desktop\git学习之路\gitFlow工作流\how2UseGit\3DTest\static\lib" />
-      <recent name="C:\Users\123\Desktop\git学习之路\gitFlow工作流\how2UseGit\3DTest\static\lib\angular" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -579,21 +279,24 @@
       <workItem from="1559858405512" duration="1000" />
       <workItem from="1559858424230" duration="6825000" />
       <workItem from="1560040574596" duration="6772000" />
+      <workItem from="1560051082088" duration="2978000" />
+      <workItem from="1560081181979" duration="2458000" />
+      <workItem from="1560175418338" duration="6550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40780000" />
+    <option name="totallyTimeSpent" value="52766000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="441" y="27" width="1683" height="1086" extended-state="0" />
+    <frame x="158" y="5" width="1683" height="1086" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2224924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32983193" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -614,9 +317,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/3DTest/static/lib/angular.min.js" />
     <entry file="file://$PROJECT_DIR$/3DTest/static/lib/require.js" />
-    <entry file="file://$PROJECT_DIR$/3DTest/static/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/3DTest/static/lib/require/domReady.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -627,20 +327,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/measureAngle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/static/tpl/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/measureAngle.js" />
     <entry file="file://$PROJECT_DIR$/3DTest/static/lib/require/require.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -665,76 +352,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/entityController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/navController.js">
+    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/entityController.js" />
+    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/controllers.js" />
+    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/navController.js" />
+    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/mainController.js" />
+    <entry file="file://$PROJECT_DIR$/3DTest/static/routes.js" />
+    <entry file="file://$PROJECT_DIR$/3DTest/app.js" />
+    <entry file="file://$PROJECT_DIR$/3DTest/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/3DTest/static/js/controllers/index.css" />
+    <entry file="file://$PROJECT_DIR$/3DTest/static/js/routes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="30" selection-end-line="4" selection-end-column="3" />
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/static/modules/mainController.js">
+    <entry file="file://$PROJECT_DIR$/3DTest/static/js/controllers/modules.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="57">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/static/routes.js">
+    <entry file="file://$PROJECT_DIR$/3DTest/static/tpl/nav.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3DTest/static/js/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3DTest/static/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3DTest/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="88" column="59" lean-forward="true" selection-start-line="88" selection-start-column="59" selection-end-line="88" selection-end-column="59" />
+        <state relative-caret-position="826">
+          <caret line="109" column="24" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="109" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/require.config.js">
+    <entry file="file://$PROJECT_DIR$/3DTest/static/js/require.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state relative-caret-position="253">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/app.js">
+    <entry file="file://$PROJECT_DIR$/3DTest/static/js/controllers/navController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
+        <state relative-caret-position="513">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/routes.js">
+    <entry file="file://$PROJECT_DIR$/3DTest/static/js/controllers/mainController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="325">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3DTest/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="127">
+          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3DTest/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/3DTest/static/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="182">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
