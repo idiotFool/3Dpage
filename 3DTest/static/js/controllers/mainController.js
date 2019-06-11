@@ -115,10 +115,26 @@ define([
             }
         })
 
-        const positions = [[0, 2, 0], [0, 0, 0], [2, 0, 0]];
-       /* console.log(measureAngle)
-        measureAngle(positions)*/
+        const cylinder = viewer.entities.add({
+            name: 'cylinder',
+            position: Cesium.Cartesian3.fromDegrees(-80, 40.0),
+            cylinder: {
+                heightReference: 0,
+                length: 500000,
+                topRadius: 5000,
+                bottomRadius: 5000,
+                material: Cesium.Color.CYAN
+            }
+        })
 
-        viewer.zoomTo(rect);
+        viewer.zoomTo(cylinder);
+
+        const clickHandler = new Cesium.ScreenSpaceEventHandler(viewer.scene.canvas);
+        clickHandler.setInputAction((position) => {
+            console.log(position, "click 返回值");
+            const cartesian2 = Cesium.Cartesian2.fromCartesian3(position)
+            const pickRes = viewer.scene.drillPick(cartesian2, 2, 1000, 1000);
+            console.log(pickRes, "pick result")
+        }, Cesium.ScreenSpaceEventType.LEFT_CLICK)
     })
 });

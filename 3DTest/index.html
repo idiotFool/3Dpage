@@ -15,8 +15,8 @@
         </div>
         <ul class="nav-item-outer">
             <li ng-repeat="item in navItems">
-                <a ng-click="slideLevel2($event)">{{item.title}}</a>
-                <ul class="nav-item-inner">
+                <div ng-click="slideLevel2($event, item.id)" ng-class="{'itemHighlight': item.isSubtitleShow}">{{item.title}}</div>
+                <ul class="nav-item-inner" ng-show="item.isSubtitleShow">
                     <li ng-repeat="subItem in item.subtitle">
                         <a href="">{{subItem}}</a>
                     </li>

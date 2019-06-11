@@ -42,8 +42,9 @@ ul{
     text-align: center;
     cursor: pointer;
 }
-.nav-item-inner{
-    display: none;
+.itemHighlight{
+    background: #eee;
+    box-shadow: 0 0 8px grey inset
 }
 .nav-item-inner>li{
     text-align: center;
