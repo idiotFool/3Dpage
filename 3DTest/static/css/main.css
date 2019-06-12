@@ -49,12 +49,25 @@ ul{
 .nav-item-inner>li{
     text-align: center;
     font-size: 1.1rem;
+    color: #00a8c6;
 }
 #cesiumContainer{
     width: 100%;
     height: 100%;
 }
 
+
+/*template bm css*/
+.tpl-bm{
+    background: #00FFFF;
+    width: 200px;
+    height: 500px;
+    position: fixed;
+    right: 0;
+    z-index: 1;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 0 8px #e0e0e0 inset
+}
 
 
 
