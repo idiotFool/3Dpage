@@ -1,6 +1,7 @@
 define([
     "controllers/navController",
-    "controllers/mainController"
+    "controllers/mainController",
+    "controllers/entityController"
 ], function(){
 
 });

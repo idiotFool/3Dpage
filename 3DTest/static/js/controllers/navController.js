@@ -12,10 +12,10 @@ define([
                 link: "bm"
             }, {
                 titleName: "精模",
-                link: "JM"
+                link: "jm"
             }, {
                 titleName: "体渲染",
-                link: "VOL"
+                link: "vol"
             }]
         }, {
             id: 1,
@@ -37,7 +37,7 @@ define([
                 link: "measure"
             }, {
                 titleName: "绘制",
-                link: "drawing"
+                link: "entity"
             }]
         }];
 
@@ -48,7 +48,7 @@ define([
             //让高亮的元素去除高亮
             const extendItem = $scope.navItems.find(item => item.isSubtitleShow);
 
-            !targetItem.isSubtitleShow && extendItem && (extendItem.isSubtitleShow = false)
+            !targetItem.isSubtitleShow && extendItem && (extendItem.isSubtitleShow = false);
             targetItem.isSubtitleShow = !targetItem.isSubtitleShow;
         }
     });
