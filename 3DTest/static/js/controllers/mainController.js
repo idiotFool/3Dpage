@@ -3,7 +3,7 @@ define([
     "cesium"
 ], function(controllers, Cesium){
     controllers.controller("mainController", function($rootScope, $scope){
-        $rootScope.viewer = new Cesium.Viewer("cesiumContainer", {
+        window.viewer = $rootScope.viewer = new Cesium.Viewer("cesiumContainer", {
             fullscreenButton: false,
             homeButton: false,
             timeline: false,

@@ -4,7 +4,7 @@ define(["./app", "angular"], function(app, angular){
             name:'bm',
             url: "bm.html",
             templateUrl: "static/tpl/bm.html",
-            controller: ""
+            controller: "bmController"
         }, {
             name:'jm',
             url: "jm.html",

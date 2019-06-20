@@ -5,6 +5,19 @@ define([
     controllers.controller("entityController", function($rootScope, $scope){
 
         const scopeObj = {
+            addPoint: function () {
+                const point = $rootScope.viewer.entities.add({
+                    name: "point",
+                    position: Cesium.Cartesian3.fromDegrees(-100, 40, 0),
+                    point: {
+                        pixelSize: 50,
+                        color: Cesium.Color.CYAN,
+                        outlineWidth: 1
+                    }
+                });
+
+                $rootScope.viewer.zoomTo(point);
+            },
             addDashLine: function () {
                 const dashLine = $rootScope.viewer.entities.add({
                     name : '蓝色虚线',
