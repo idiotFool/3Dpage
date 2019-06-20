@@ -12,9 +12,6 @@ ul{
 nav{
     height: 100%;
 }
-.cesium-viewer-bottom{
-    display: none;  /*除去viewer底部的credit文字*/
-}
 .box{
     height: 100%;
     flex-flow: column;
