@@ -6,7 +6,7 @@ define([
         $scope.navItems = [{
             id: 0,
             title: "三位图层",
-            isSubtitleShow: false,
+            isSubtitleShow: true,
             subtitle: [{
                 titleName: "白模",
                 link: "bm"
@@ -20,7 +20,7 @@ define([
         }, {
             id: 1,
             title: "3D工具",
-            isSubtitleShow: true,
+            isSubtitleShow: false,
             subtitle: [{
                 titleName: "图例修改",
                 link: "legend"

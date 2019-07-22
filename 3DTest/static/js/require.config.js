@@ -3,7 +3,8 @@ require.config({
         "angular": "../lib/angular/angular",
         "domReady": "../lib/require/domReady",
         "uiRouter": "../lib/angular/angular-ui-router",
-        "cesium": "../../../Cesium-1.57/Build/Cesium/Cesium",
+        //"cesium": "../../../Cesium-1.57/Build/Cesium/Cesium",
+        "cesium": "../../../Cesium/Cesium",
         "jquery": "../lib/jquery-2.1.1/jquery.min",
     },
     shim : {

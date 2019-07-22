@@ -1,4 +1,12 @@
 <div class="tpl-bm">
-    <button type="button" class="btn btn-primary" ng-click="setEditorValue()">set value</button>
-    <textarea id="script_once_code">js code</textarea>
+    <div class="functionZone">
+        <button type="button" class="btn btn-primary" ng-click="addTest()">计算距离</button>
+    </div>
+    <div class="codeZone">
+        <textarea id="code"></textarea>
+    </div>
+    <button type="button" class="btn btn-primary" ng-click="runCode()">执行</button>
+    <button type="button" class="btn btn-primary" ng-click="clearCode()">清空</button>
+    <button type="button" class="btn btn-primary" ng-click="changeFontSize(1)">增大字体</button>
+    <button type="button" class="btn btn-primary" ng-click="changeFontSize(-1)">减小字体</button>
 </div>
